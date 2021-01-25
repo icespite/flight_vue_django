@@ -1,0 +1,74 @@
+{
+  "data": {
+    "MaxDoneId": 6,
+    "MaxWaitId": 2,
+    "done": [
+      {
+        "id": 1,
+        "userId": 1,
+        "flightNumber": "WU11111",
+        "time": "2020-3-12 4:20",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "userId": 3,
+        "flightNumber": "SU1111",
+        "time": "2020-03-25 14:57",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "flightNumber": "SU1111",
+        "time": "2020-03-25 15:00",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "userId": 1,
+        "flightNumber": "SU1111",
+        "time": "2020-03-25 15:00",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "userId": 3,
+        "flightNumber": "SU1111",
+        "time": "2020-03-25 15:43",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "userId": 3,
+        "flightNumber": "SU1111",
+        "time": "2020-03-25 16:35",
+        "seat": "A1",
+        "status": 1
+      }
+    ],
+    "wait": [
+      {
+        "id": 1,
+        "userId": 1,
+        "flightNumber": "WU11111",
+        "time": "2020-3-12 4:20",
+        "seat": "A1",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "flightNumber": "SU1111",
+        "time": "2020-3-13 4:20",
+        "seat": "A3",
+        "status": 1
+      }
+    ]
+  }
+}

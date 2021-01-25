@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "样例",
+      "identifier": "TT"
+    },
+    {
+      "id": 2,
+      "name": "武汉航空公司",
+      "identifier": "WU"
+    },
+    {
+      "id": 3,
+      "name": "九元航空",
+      "identifier": "JYH"
+    },
+    {
+      "id": 4,
+      "name": "深圳航空",
+      "identifier": "ZH"
+    },
+    {
+      "id": 5,
+      "name": "昆明航空",
+      "identifier": "KY"
+    },
+    {
+      "id": 6,
+      "name": "南方航空",
+      "identifier": ""
+    },
+    {
+      "id": 7,
+      "name": "东方航空",
+      "identifier": ""
+    },
+    {
+      "id": 8,
+      "name": "长龙航空",
+      "identifier": ""
+    },
+    {
+      "id": 9,
+      "name": "中国国航",
+      "identifier": ""
+    },
+    {
+      "id": 10,
+      "name": "山东航空",
+      "identifier": "SC"
+    },
+    {
+      "id": 11,
+      "name": "海南航空",
+      "identifier": ""
+    },
+    {
+      "id": 12,
+      "name": "首都航空",
+      "identifier": ""
+    },
+    {
+      "id": 13,
+      "name": "西部航空",
+      "identifier": ""
+    },
+    {
+      "id": 14,
+      "name": "四川航空",
+      "identifier": ""
+    },
+    {
+      "id": 15,
+      "name": "普通列车",
+      "identifier": "LC"
+    },
+    {
+      "id": 16,
+      "name": "高铁",
+      "identifier": "GT"
+    },
+    {
+      "id": 17,
+      "name": "北部湾航空",
+      "identifier": ""
+    },
+    {
+      "id": 18,
+      "name": "城际动车",
+      "identifier": ""
+    },
+    {
+      "id": 19,
+      "name": "动车",
+      "identifier": ""
+    },
+    {
+      "id": 20,
+      "name": "成都航空",
+      "identifier": ""
+    },
+    {
+      "id": 21,
+      "name": "厦门航空",
+      "identifier": ""
+    },
+    {
+      "id": 22,
+      "name": "上海航空",
+      "identifier": ""
+    },
+    {
+      "id": 23,
+      "name": "中国联合航空",
+      "identifier": ""
+    },
+    {
+      "id": 24,
+      "name": "春秋航空",
+      "identifier": ""
+    },
+    {
+      "id": 25,
+      "name": "天津航空",
+      "identifier": ""
+    },
+    {
+      "id": 26,
+      "name": "西藏航空",
+      "identifier": ""
+    },
+    {
+      "id": 27,
+      "name": "青岛航空",
+      "identifier": ""
+    },
+    {
+      "id": 28,
+      "name": "吉祥航空",
+      "identifier": ""
+    },
+    {
+      "id": 29,
+      "name": "祥鹏航空",
+      "identifier": ""
+    },
+    {
+      "id": 30,
+      "name": "红土航空",
+      "identifier": ""
+    },
+    {
+      "id": 31,
+      "name": "东海航空",
+      "identifier": ""
+    },
+    {
+      "id": 32,
+      "name": "华夏航空",
+      "identifier": ""
+    },
+    {
+      "id": 33,
+      "name": "河北航空",
+      "identifier": ""
+    },
+    {
+      "id": 34,
+      "name": "长安航空",
+      "identifier": ""
+    },
+    {
+      "id": 35,
+      "name": "福州航空",
+      "identifier": ""
+    },
+    {
+      "id": 36,
+      "name": "乌鲁木齐航空",
+      "identifier": ""
+    },
+    {
+      "id": 37,
+      "name": "瑞丽航空",
+      "identifier": ""
+    },
+    {
+      "id": 38,
+      "name": "多彩航空",
+      "identifier": ""
+    },
+    {
+      "id": 39,
+      "name": "金鹏航空",
+      "identifier": ""
+    },
+    {
+      "id": 40,
+      "name": "江西航空",
+      "identifier": ""
+    },
+    {
+      "id": 41,
+      "name": "大新华航空",
+      "identifier": ""
+    },
+    {
+      "id": 42,
+      "name": "桂林航空",
+      "identifier": ""
+    }
+  ]
+}

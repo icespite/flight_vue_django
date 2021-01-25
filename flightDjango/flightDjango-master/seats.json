@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "flightNumber": "SU1111",
+      "seats": {
+        "A": {
+          "interval": [12,23,35]
+        }
+      }
+    }
+  ]
+}
